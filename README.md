@@ -1,5 +1,7 @@
 # PwC Virtual Internship Project: Call Center Performance Analysis
 
+![call_center](call_center.png)
+---
 ## Introduction
 
 This project is part of my PwC virtual internship on Forage. The dataset, provided during the internship, offered a valuable opportunity to practice skills in Power BI visualization, analysis, and DAX. Guided by a problem statement from the internship, this report showcases how I applied these skills to transform data into actionable insights, reflecting PwC's commitment to digital transformation and innovative technology solutions.
