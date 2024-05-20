@@ -71,7 +71,7 @@ The provided call center dashboard offers a comprehensive overview of various ke
 ### Agent Performance
 ![Agents_Statistics](Agents_Statistics.png)
 
-The performance of each agent is assessed based on the total calls answered, total issues resolved, Average speed of answering calls, and the Average satisfaction rate provided by customers.
+The performance of each agent is assessed based on the total calls answered, total issues resolved, Unresolved Issues, Average speed of answering calls, and the Average satisfaction rate provided by customers.
 
 - **Jim**:
   - **Calls Answered**: 536(highest)
