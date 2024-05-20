@@ -1,5 +1,6 @@
 # PwC Virtual Internship Project: Call Center Performance Analysis
 
+
 ![call_center](call_center.jpg)
 ---
 ## Introduction
@@ -68,7 +69,7 @@ The provided call center dashboard offers a comprehensive overview of various ke
 - **Average Speed of Answer**: 67.52 seconds
 
   ![overall_satisfaction](overall_satisfaction.png)
-- **Overall Customer Satisfaction**: This indicates an overall satisfaction score of 3.40 on a scale from 1 to 5. A score of 3.40 suggests that customers’ satisfaction is slightly above average. While it’s not exceptionally high, it also doesn’t indicate significant dissatisfaction.
+- **Overall Customer Satisfaction**: This indicates an overall satisfaction score of 3.40 on a scale from 1 to 5. A score of 3.40 suggests that customers’ satisfaction is slightly above average.
 
 ### Agent Performance
 ![Agents_Statistics](Agents_Statistics.png)
@@ -112,7 +113,8 @@ The performance of each agent is assessed based on the total calls answered, tot
 
 1. **High Volume of Calls**: The call center handled a substantial number of calls (4054), with a significant number being abandoned (946).
 2. **Speed of Answer**: The average speed of answering calls was relatively slow at 67.52 seconds, with noticeable variations among agents.
-3. **Customer Satisfaction**: Satisfaction ratings varied among agents, indicating differences in performance and customer interaction quality.
+3. **Customer Satisfaction**: An overall satisfaction score of 3.40 on a scale from 1 to 5 suggests that customers’ satisfaction is slightly above average. While it’s not exceptionally high, it also doesn’t indicate significant dissatisfaction.
+Satisfaction ratings varied among agents, indicating differences in performance and customer interaction quality.
 
 ### Recommendations
 
