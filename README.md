@@ -45,7 +45,7 @@ The dataset was clean and didn’t need a lot of transformation. Here are a few 
 
 Below is a preview of the table.
 
-![Data_transformation](Data_transformation.jpg)
+![Data_Transformation](Data_Transformation.png)
 
 ## Modelling
 
