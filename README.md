@@ -13,9 +13,8 @@ This project is part of my PwC virtual internship on Forage. The dataset, provid
 - **Calculating Measures**
 - **Defining KPIs**
 - **Insights and Actions**
-- **Power BI**
+- **Power BI DAX**
 - **Power BI Dashboard**
-- **Self-Reflection**
 
 ## Data Sourcing
 
@@ -29,10 +28,10 @@ The dataset was provided during the internship. I downloaded the Excel file and 
 -  **Time**: The time when the call started.
 - **Topic**: The subject or issue discussed during the call, such as technical support, billing inquiry, or general information.
 - **Answered (Y/N)**: Indicates whether the call was answered by an agent (Y for Yes, N for No).
-- **Resolved**: Indicates if the customer's issue was resolved during the call. This might be a simple Yes/No or more detailed statuses like "Pending," "Escalated," etc.
+- **Resolved**: Indicates if the customer's issue was resolved during the call. This might be a simple Yes/No.
 - **Speed of Answer in Seconds**: The amount of time (in seconds) it took for an agent to answer the call from the moment it was received.
 - **AvgTalkDuration**: The average duration of the call, typically measured in seconds or minutes, from the start to the end of the conversation.
-- **Satisfaction Rating**: The rating given by the customer regarding their satisfaction with the service received during the call. On a scale (e.g., 1-5).
+- **Satisfaction Rating**: The rating given by the customer regarding their satisfaction with the service received during the call. On a scale (1-5).
 
 ## Data Transformation
 
@@ -70,7 +69,7 @@ The provided call center dashboard offers a comprehensive overview of various ke
 ### Agent Performance
 ![Agents_Statistics](Agents_Statistics.png)
 
-The performance of each agent is assessed based on the total calls answered, total issues resolved, average speed of answering calls, and the satisfaction rate provided by customers.
+The performance of each agent is assessed based on the total calls answered, total issues resolved, Average speed of answering calls, and the Average satisfaction rate provided by customers.
 
 - **Jim**:
   - **Calls Answered**: 536
@@ -84,10 +83,13 @@ The performance of each agent is assessed based on the total calls answered, tot
   - **Satisfaction Rating**: 3.47 (highest)
 
 ### Calls Answered by Time
-![Weekly_Calls](Weekly_Calls.png)
+
+![Answered_vs_Unansweredcalls](Answered_vs_Unansweredcalls.png)
 
 - **Monthly Analysis**:
   - **January**: Highest number of answered calls
+ 
+![Weekly_Calls](Weekly_Calls.png)
 - **Weekly Analysis**:
   - **Week 5**: Highest number of answered calls (364)
   - **Week 1**: Least number of answered calls (94)
