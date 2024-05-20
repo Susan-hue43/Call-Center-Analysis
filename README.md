@@ -74,15 +74,23 @@ The provided call center dashboard offers a comprehensive overview of various ke
 The performance of each agent is assessed based on the total calls answered, total issues resolved, Average speed of answering calls, and the Average satisfaction rate provided by customers.
 
 - **Jim**:
-  - **Calls Answered**: 536
-  - **Issues Resolved**: 485
+  - **Calls Answered**: 536(highest)
+  - **Unresolved Calls**: 181(Highest)
+  - **Issues Resolved**: 485(highest)
+
+ - **Diane**:
+   - **Unresolved Calls**: 181(Highest)   
+
 - **Becky**:
-  - **Average Speed of Answer**: 65.33 seconds
+  - **Average Speed of Answer**: 65.33 seconds(jfastest)
+
 - **Joe**:
   - **Average Speed of Answer**: 70.99 seconds (longest)
   - **Satisfaction Rating**: 3.33 (lowest)
+
 - **Martha**:
   - **Satisfaction Rating**: 3.47 (highest)
+  
 
 ### Calls Answered by Time
 
