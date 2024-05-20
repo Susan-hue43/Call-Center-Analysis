@@ -54,7 +54,7 @@ This Call Center dataset only had one table, so no additional modelling was done
 # Call Center Performance Analysis and Visualization
 ## Call Center Dashboard
 
-![Call_Center_Dashboard](Call_Center_Dashboard.png)
+![call_center_dashboard](call_center_dashboard.png)
 ## Overview
 
 The provided call center dashboard offers a comprehensive overview of various key performance metrics. This analysis addresses several critical aspects of call center performance, including total calls answered, total calls abandoned, speed of answer, and overall customer satisfaction. Additionally, it delves into individual agent performance and call trends over time.
@@ -64,7 +64,9 @@ The provided call center dashboard offers a comprehensive overview of various ke
 - **Total Calls Answered**: 4054
 - **Total Calls Abandoned**: 946
 - **Average Speed of Answer**: 67.52 seconds
-- **Overall Customer Satisfaction**: Evaluated per agent based on each call and issue resolved.
+
+  ![overall_satisfaction](overall_satisfaction.png)
+- **Overall Customer Satisfaction**: This indicates an overall satisfaction score of 3.40 on a scale from 1 to 5. A score of 3.40 suggests that customers’ satisfaction is slightly above average. While it’s not exceptionally high, it also doesn’t indicate significant dissatisfaction.
 
 ### Agent Performance
 ![Agents_Statistics](Agents_Statistics.png)
