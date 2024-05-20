@@ -1,6 +1,6 @@
 # PwC Virtual Internship Project: Call Center Performance Analysis
 
-![call_center](call_center.png)
+![call_center](call_center.jpg)
 ---
 ## Introduction
 
